@@ -19,4 +19,4 @@ This report documents a professional penetration testing assessment of a simulat
 - Provided actionable recommendations
 ---
 
-📄 [View Full Report (PDF)](./Ethical-Hacking-Report.pdf)
+📄[ https://docs.google.com/document/d/15dak2flejEkw6ICBzfn6US24rLH9eYs17QNLbj0TkNY/edit?usp=sharing](url)
